@@ -1,0 +1,3 @@
+N is the number of candidates. A is the list containing the country code of the person. 
+B is the list containing the skill level of the person. Output list B such that 
+B[i] = B[i] - X [where X is floor of average skill of that country]
